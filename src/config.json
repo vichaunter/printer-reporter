@@ -1,0 +1,11 @@
+{
+    "id": "Monitor name",
+    "baseUrl": "http://192.168.0.105:8088/api",
+    "log": true,
+    "debug": true,
+    "printers": [
+        {
+            "token": "32534c4d3e9512bdaca3d7fca9828019"            
+        }
+    ]
+}
